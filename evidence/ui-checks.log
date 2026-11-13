@@ -1,0 +1,9 @@
+PASS Initial free stations = 12
+PASS Start via window handler creates session
+PASS Duplicate start rejected in UI
+PASS Negative tariff rejected in UI
+PASS Decimal comma accepted
+PASS Finish moves session to history
+PASS Active session keeps original rate
+PASS Reload saved history
+PASS Reload saved tariff

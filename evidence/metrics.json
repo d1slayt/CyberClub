@@ -1,0 +1,103 @@
+{
+  "scope": "Billing.Calculate body only",
+  "convention": "Roslyn tokens including each separator separately; called method names and constructors are operators; other identifiers and numeric/string literals are operands; keywords and punctuation are operators; comments and signature excluded",
+  "uniqueOperators": 20,
+  "uniqueOperands": 11,
+  "totalOperators": 49,
+  "totalOperands": 15,
+  "vocabulary": 31,
+  "length": 64,
+  "volume": 317.06856386476,
+  "difficulty": 13.636363636363637,
+  "effort": 4323.662234519455,
+  "cyclomatic": 3,
+  "operators": {
+    "{": 1,
+    "if": 2,
+    "(": 9,
+    "\u003C=": 1,
+    ")": 9,
+    "throw": 2,
+    "new": 2,
+    "ArgumentOutOfRangeException": 2,
+    "nameof": 2,
+    ";": 3,
+    "\u003C": 1,
+    ".": 5,
+    "return": 1,
+    "decimal": 2,
+    "Round": 1,
+    "*": 1,
+    "Ceiling": 1,
+    "/": 1,
+    ",": 2,
+    "}": 1
+  },
+  "operands": {
+    "rate": 3,
+    "0": 1,
+    "duration": 3,
+    "TimeSpan": 1,
+    "Zero": 1,
+    "Math": 1,
+    "TotalMinutes": 1,
+    "60m": 1,
+    "2": 1,
+    "MidpointRounding": 1,
+    "AwayFromZero": 1
+  },
+  "files": [
+    {
+      "file": "CyberClub.App\\App.xaml",
+      "physical": 57,
+      "nonblank": 47
+    },
+    {
+      "file": "CyberClub.App\\App.xaml.cs",
+      "physical": 4,
+      "nonblank": 4
+    },
+    {
+      "file": "CyberClub.App\\MainWindow.Verification.cs",
+      "physical": 80,
+      "nonblank": 77
+    },
+    {
+      "file": "CyberClub.App\\MainWindow.xaml",
+      "physical": 186,
+      "nonblank": 157
+    },
+    {
+      "file": "CyberClub.App\\MainWindow.xaml.cs",
+      "physical": 116,
+      "nonblank": 104
+    },
+    {
+      "file": "CyberClub.Core\\ClubService.cs",
+      "physical": 46,
+      "nonblank": 43
+    },
+    {
+      "file": "CyberClub.Core\\JsonStore.cs",
+      "physical": 26,
+      "nonblank": 24
+    },
+    {
+      "file": "CyberClub.Core\\Models.cs",
+      "physical": 21,
+      "nonblank": 20
+    },
+    {
+      "file": "CyberClub.Tests\\Program.cs",
+      "physical": 157,
+      "nonblank": 150
+    },
+    {
+      "file": "tools\\Metrics\\Program.cs",
+      "physical": 48,
+      "nonblank": 46
+    }
+  ],
+  "physicalLines": 741,
+  "nonblankLines": 672
+}

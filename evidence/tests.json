@@ -1,0 +1,123 @@
+{
+  "total": 29,
+  "passed": 29,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Billing zero",
+      "passed": true
+    },
+    {
+      "name": "Billing hour",
+      "passed": true
+    },
+    {
+      "name": "Billing partial minute",
+      "passed": true
+    },
+    {
+      "name": "Billing exact minute",
+      "passed": true
+    },
+    {
+      "name": "Billing next minute",
+      "passed": true
+    },
+    {
+      "name": "Billing VIP",
+      "passed": true
+    },
+    {
+      "name": "Billing negative time",
+      "passed": true
+    },
+    {
+      "name": "Billing zero rate",
+      "passed": true
+    },
+    {
+      "name": "Billing negative rate",
+      "passed": true
+    },
+    {
+      "name": "Start valid",
+      "passed": true
+    },
+    {
+      "name": "Start duplicate",
+      "passed": true
+    },
+    {
+      "name": "Station below limit",
+      "passed": true
+    },
+    {
+      "name": "Station above limit",
+      "passed": true
+    },
+    {
+      "name": "Unknown tariff",
+      "passed": true
+    },
+    {
+      "name": "Finish cost",
+      "passed": true
+    },
+    {
+      "name": "Finish duplicate",
+      "passed": true
+    },
+    {
+      "name": "Finish unknown",
+      "passed": true
+    },
+    {
+      "name": "Clock rollback",
+      "passed": true
+    },
+    {
+      "name": "Reuse station",
+      "passed": true
+    },
+    {
+      "name": "Rate snapshot",
+      "passed": true
+    },
+    {
+      "name": "Invalid rate 0",
+      "passed": true
+    },
+    {
+      "name": "Invalid rate -1",
+      "passed": true
+    },
+    {
+      "name": "Invalid rate 10001",
+      "passed": true
+    },
+    {
+      "name": "Rate upper boundary",
+      "passed": true
+    },
+    {
+      "name": "Unknown rate name",
+      "passed": true
+    },
+    {
+      "name": "Missing file defaults",
+      "passed": true
+    },
+    {
+      "name": "JSON roundtrip and backup",
+      "passed": true
+    },
+    {
+      "name": "Corrupt JSON rejected",
+      "passed": true
+    },
+    {
+      "name": "Invalid state rejected",
+      "passed": true
+    }
+  ]
+}
