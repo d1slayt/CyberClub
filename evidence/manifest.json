@@ -22,6 +22,7 @@
   "testRunner": "standalone C# console, not xUnit/MSTest",
   "uiEvidence": "real WPF visual tree captured by RenderTargetBitmap; automated handlers; not manual acceptance",
   "coverage": "not measured",
-  "remoteRepository": "not published",
-  "gitGraph": "git-graph.txt records the merge snapshot; git-final-graph.txt records delivery history"
+  "remoteRepository": "https://github.com/d1slayt/CyberClub",
+  "gitGraph": "git-graph.txt records the merge snapshot; git-final-graph.txt records delivery history",
+  "remotePublishedDate": "2026-11-17"
 }
